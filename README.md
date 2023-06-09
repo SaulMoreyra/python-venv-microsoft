@@ -7,7 +7,7 @@ python -m venv env
 
 ## Activate virtual enviroment (bash)
 ```
-source ./scr/Scripts/activate
+source ./env/Scripts/activate
 ```
 
 ## Exit from virtual enviroment (bash)
