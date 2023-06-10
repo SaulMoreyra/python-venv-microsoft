@@ -34,7 +34,7 @@ print(separator)
 temperatures2 = """Saturn has a daytime temperature of -170 degrees Celsius, while Mars has -28 Celsius."""
 print(temperatures2.find("Moon"))
 print(temperatures2.find("Mars"))
-print(temperatures2[64])
+print(temperatures2[64:64 + len("Mars")])
 print(separator)
 
 # INFO: will count how many times is repeated
